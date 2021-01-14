@@ -1,0 +1,3 @@
+# mod_mindystry
+Mindusrty mod
+Прочитай меня…
